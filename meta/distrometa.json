@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///C:/Users/fury/Documents/GitHub/Shiny-Resources/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "",
+    "discord": {
+      "clientId": "",
+      "smallImageText": "",
+      "smallImageKey": ""
+    }
+  }
+}
