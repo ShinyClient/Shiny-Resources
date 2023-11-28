@@ -7,11 +7,11 @@
     "icon": "https://hypixel.net/styles/hypixel-v2/images/footer/blue-avatar.png",
     "address": "mc.hypixel.net:25565",
     "discord": {
-      "shortId": "",
-      "largeImageText": "",
-      "largeImageKey": ""
+      "shortId": "skyblock",
+      "largeImageText": "Hypixel SkyBlock",
+      "largeImageKey": "hypixel"
     },
-    "mainServer": false,
+    "mainServer": true,
     "autoconnect": false
   },
   "forge": {
