@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "",
   "discord": {
-    "clientId": "",
-    "smallImageText": "",
-    "smallImageKey": ""
+    "clientId": "1170325502448369674",
+    "smallImageText": "Shiny",
+    "smallImageKey": "logo"
   },
   "servers": [
     {
@@ -16,11 +16,11 @@
       "address": "mc.hypixel.net:25565",
       "minecraftVersion": "1.8.9",
       "discord": {
-        "shortId": "",
-        "largeImageText": "",
-        "largeImageKey": ""
+        "shortId": "skyblock",
+        "largeImageText": "Hypixel SkyBlock",
+        "largeImageKey": "hypixel"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
