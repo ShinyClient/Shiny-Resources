@@ -7,7 +7,7 @@
     "icon": "https://hypixel.net/styles/hypixel-v2/images/footer/blue-avatar.png",
     "address": "mc.hypixel.net:25565",
     "discord": {
-      "shortId": SkyBlock",
+      "shortId": "SkyBlock",
       "largeImageText": "Hypixel SkyBlock",
       "largeImageKey": "hypixel"
     },
