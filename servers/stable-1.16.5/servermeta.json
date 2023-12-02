@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/fury/Documents/GitHub/Shiny-Resources/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Minecraft 1.16.5",
+    "description": "Minecraft 1.16.5 (Forge v36.2.34)",
+    "icon": "https://files.minecraftforge.net/static/images/logo.svg",
+    "address": "mc.hypixel.net",
+    "discord": {
+      "shortId": "Minecraft 1.16.5",
+      "largeImageText": "",
+      "largeImageKey": ""
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "36.2.34"
+  },
+  "untrackedFiles": []
+}
