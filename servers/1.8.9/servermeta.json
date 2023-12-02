@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/fury/Documents/GitHub/Shiny-Resources/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Minecraft 1.8.9",
+    "description": "Minecraft 1.8.9 (Forge v11.15.1.2318)",
+    "icon": "https://files.minecraftforge.net/static/images/logo.svg",
+    "address": "mc.hypixel.net",
+    "discord": {
+      "shortId": "Minecraft 1.8.9",
+      "largeImageText": "",
+      "largeImageKey": ""
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "11.15.1.2318"
+  },
+  "untrackedFiles": []
+}
